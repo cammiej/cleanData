@@ -4,10 +4,15 @@ Coursera Course Getting &amp; Cleaning Data Class Project
 The steps seem right.  I read the discussions which provided clarification and guidance.  In the end, I have a tidy dataset based on the class teachings.  Columns and rows are labeled, observations are in columns and variables in rows, and they are not duplicated.  Unfortunately, work is busy and I cannot give as much time as I need to the project.
 
 CodeBook
+
 activity - the activity measured
+
 subject - the subject id for the subject that performed the activity
+
 V1 - the activity id
+
 mean for measurements by activity & subject:
+
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
